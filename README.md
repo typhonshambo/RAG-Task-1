@@ -67,7 +67,7 @@ response = pipeline.query("What does the diagram show?")
 - [ ] Documentation improvements
 
 ## Documentation
-
+Note : This is a work in progress.
 - [Technical Details](docs/technical_architecture.md)
 - [API Guide](docs/api.md)
 - [Agent Info](docs/agents.md)
